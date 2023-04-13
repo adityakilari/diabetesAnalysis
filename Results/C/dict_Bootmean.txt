@@ -1,1 +1,1 @@
-{'mean_Bootsample': 31.8188, 'mean_population': 31.992578125}
+{'mean_Bootsample': 68.348, 'mean_population': 69.10546875}
